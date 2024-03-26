@@ -1,5 +1,10 @@
 body{
     color: cornflowerblue;
     text-align: center;
-    font-family: "arial";
+    font-family: "courier";
+    border: solid;
+    border-color: black;
+    border-radius: 2px;
+    padding: 70px;
+    margin: 50px;
 }
